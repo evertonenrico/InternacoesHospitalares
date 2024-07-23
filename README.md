@@ -2,6 +2,13 @@
 
 ## Introdução
 
+ O XHospital está precisando do seu serviço como Analista de Dados. Toda operação hospitalar é feita através de um ERP que utiliza como base de dados um banco SQL.
+Esse sistema contempla um módulo que gera relatórios, mas como de costume, são relatórios limitados e extrair real valor deles não é uma tarefa fácil.
+Os diretores do XHospital precisam avaliar o setor de internação e, muito melhor do que páginas e páginas de relatórios, querem um Dashboard dinâmico para fazer essa análise.
+
+O setor de TI te dará acesso à base de dados, mas tem um detalhe: esse setor está desfalcado. Parte da equipe está de férias e um colaborador não faz mais parte da equipe. Isso significa que o setor está bem sobrecarregado e você, como um Analista de Dados, precisará desenvolver as queries SQL necessárias para fazer o projeto acontecer.
+
+
 Na primeira etapa do desafio você precisa:
 
 + Acessar o Data World, criar sua conta e acessar a base de dados
