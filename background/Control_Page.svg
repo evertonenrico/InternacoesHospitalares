@@ -10,9 +10,9 @@
 </g>
 </g>
 <g filter="url(#filter1_d_1_3)">
-<rect x="327" y="37" width="188" height="182" rx="18" fill="#ED1651"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M355.382 56.001L351.07 67.184L355.644 91.984L368.317 91.998L372.931 67.202L368.637 56.012L355.382 56.001ZM370.011 54.013L354.01 54L349 66.992L353.978 93.982L369.978 94L375 67.013L370.011 54.013Z" fill="white"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M361 67.997V76H363V67.997H366V65.997H363V63H361V65.997H358V67.997H361Z" fill="white"/>
+<rect x="327" y="37" width="188" height="182" rx="18" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M355.382 56.001L351.07 67.184L355.644 91.984L368.317 91.998L372.931 67.202L368.637 56.012L355.382 56.001ZM370.011 54.013L354.01 54L349 66.992L353.978 93.982L369.978 94L375 67.013L370.011 54.013Z" fill="#00995D"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M361 67.997V76H363V67.997H366V65.997H363V63H361V65.997H358V67.997H361Z" fill="#00995D"/>
 </g>
 <g filter="url(#filter2_d_1_3)">
 <rect x="122" y="37" width="188" height="182" rx="18" fill="white"/>
